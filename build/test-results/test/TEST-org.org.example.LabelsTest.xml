@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.org.example.LabelsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-28T11:57:40" hostname="DESKTOP-ALGH3E6" time="0.236">
+  <properties/>
+  <testcase name="Create Issue for automated user" classname="org.org.example.LabelsTest" time="0.236"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 28 14:27:13 MSK 2023","Tue Feb 28 14:27:24 MSK 2023","10651","","org.org.example.StepsTest","","org.org.example.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Tue Feb 28 14:23:16 MSK 2023","Tue Feb 28 14:23:27 MSK 2023","10785","","org.org.example.StepsTest","","org.org.example.StepsTest","testLambdaStep","testLambdaStep()",""
